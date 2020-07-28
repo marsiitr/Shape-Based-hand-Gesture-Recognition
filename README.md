@@ -84,7 +84,7 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
    1. [Rohit Kumar](https://github.com/Rohit-Kumar-219)
    2. Rohit Sondarva
    3. Anubhuti Shruti
-   4. Dhaval kanani
+   4. [Dhaval kanani](https://github.com/Dhaval-Kanani)
    5. Siddhant Taksande
 
 ## Mentors
