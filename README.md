@@ -84,7 +84,7 @@ Srishti 2020
 ## Team members 
    1. [Rohit Kumar](https://github.com/Rohit-Kumar-219)
    2. Rohit Sondarva
-   3. Anubhuti Shruti
+   3. [Anubhuti Shruti](https://github.com/Anu-123-gif)
    4. [Dhaval kanani](https://github.com/Dhaval-Kanani)
    5. [Siddhant Taksande](https://github.com/d-siddhant)
 
