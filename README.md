@@ -92,3 +92,4 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
 ## References
    
    - https://www.hindawi.com/journals/tswj/2014/267872/
+   - https://www.hackster.io/mertarduino/how-to-make-wireless-gesture-control-robotic-hand-cc7d07
