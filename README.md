@@ -30,6 +30,7 @@ Srishti 2020
 
 ### Structure
 <p align="justify">The bot has 5 servo motors connected to separate copper strings which is joined to the fingures of the bot. When the arduino of the bot recieves the signals, the corresponding set of motor is **switched on** amd hence the copper string is pulled, thus, bending the corresponding fingure. When the srint is released the braid wire in the rear part of the fingure brings the fingure into its original state.</p>
+
 ![Hand](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images%20and%20Videos/Images/Bot.PNG)
 
 ## Electrical aspect of the design
