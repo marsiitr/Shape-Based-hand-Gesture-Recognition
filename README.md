@@ -86,7 +86,7 @@ Srishti 2020
    2. Rohit Sondarva
    3. Anubhuti Shruti
    4. [Dhaval kanani](https://github.com/Dhaval-Kanani)
-   5. Siddhant Taksande
+   5. [Siddhant Taksande](https://github.com/d-siddhant)
 
 ## Mentors
 
