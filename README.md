@@ -57,12 +57,13 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
 
 ## Cost Structure
 
-| Components | Cost(INR) |
-| --- | --- |
-| Arduino Uno | 499 |
-| nRF24L01 module | 81 |
-| Servo motor | 149 |
-| 9V Battery | 25 |
+| Components | Cost(INR) per unit | Cost(INR) |
+| --- | --- | --- |
+| Arduino Uno(x2) | 499 | 998 |
+| nRF24L01 module(x2) | 81 | 162 |
+| Servo motor(x5) | 149 | 745 |
+| 9V Battery | 25 | 25 |
+| **Total** | --- | 1930 |
 
 ## Applications 
  
@@ -84,7 +85,7 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
    2. Rohit Sondarva
    3. Anubhuti Shruti
    4. Dhaval kanani
-   5. Sidhhant Taksande
+   5. Siddhant Taksande
 
 ## Mentors
 
