@@ -91,7 +91,7 @@ Srishti 2020
 ## Mentors
 
    1. [Shiva Sri Teja](https://github.com/shivasriteja) 
-   2. Kunal
+   2. [Kunal](https://github.com/Ryuzaki1947)
 
 ## References
    
