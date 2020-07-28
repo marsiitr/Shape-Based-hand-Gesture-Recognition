@@ -47,6 +47,8 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
 ### Actuators 
    
    Five 90 degree servo motors are used in the bot for the comprassion and relaxation of the fingures.
+   
+ ![](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images/Receiver_circuit_diagram.jpg)
 
 ### Other components  
    
