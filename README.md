@@ -24,13 +24,13 @@ Srishti 2020
    - Copper wire
 
 ## Workflow
-![Workflow](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images/Workflow.png)
+![Workflow](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images%20and%20Videos/Images/Workflow.png)
 
 ## Mechanical aspect of the design
 
 ### Structure
 The bot has 5 servo motors connected to separate copper strings which is joined to the fingures of the bot. When the arduino of the bot recieves the signals, the corresponding set of motor is **switched on** amd hence the copper string is pulled, thus, bending the corresponding fingure. When the srint is released the braid wire in the rear part of the fingure brings the fingure into its original state.
-![Hand](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images/Bot.PNG)
+![Hand](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images%20and%20Videos/Images/Bot.PNG)
 
 ## Electrical aspect of the design
    
@@ -43,12 +43,12 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
    The laptop camera works as a sensor in the project, for image identification.
    
    
-![Image identification and segregation workflow](https://static-01.hindawi.com/articles/tswj/volume-2014/267872/figures/267872.fig.001.jpg)
+![Image identification and segregation workflow](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images%20and%20Videos/Images/IP%20process.jpg)
 ### Actuators 
    
    Five 90 degree servo motors are used in the bot for the comprassion and relaxation of the fingures.
    
- ![](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images/Receiver_circuit_diagram.jpg)
+ ![](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images%20and%20Videos/Images/Receiver_circuit_diagram.jpg)
 
 ### Other components  
    
