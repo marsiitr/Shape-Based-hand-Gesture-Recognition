@@ -81,7 +81,7 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
    - Image processing can be replaced by ultra sensitive flex sensors and small stepper motors for better precision of the motion.
 
 ## Team members 
-   1. Rohit Kumar 
+   1. [Rohit Kumar](https://github.com/Rohit-Kumar-219)
    2. Rohit Sondarva
    3. Anubhuti Shruti
    4. Dhaval kanani
