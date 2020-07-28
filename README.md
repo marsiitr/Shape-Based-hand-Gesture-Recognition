@@ -63,7 +63,7 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
 | nRF24L01 module(x2) | 81 | 162 |
 | Servo motor(x5) | 149 | 745 |
 | 9V Battery | 25 | 25 |
-| **Total** | --- | 1930 |
+| **Total Cost** | --- | 1930 |
 
 ## Applications 
  
