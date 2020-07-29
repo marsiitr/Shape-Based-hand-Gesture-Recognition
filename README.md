@@ -29,7 +29,7 @@ Srishti 2020
 ## Mechanical aspect of the design
 
 ### Structure
-<p align="justify">The bot has 5 servo motors connected to separate copper strings which is joined to the fingures of the bot. When the arduino of the bot recieves the signals, the corresponding set of motor is **switched on** amd hence the copper string is pulled, thus, bending the corresponding fingure. When the srint is released the braid wire in the rear part of the fingure brings the fingure into its original state.</p>
+<p align="justify">The bot has 5 servo motors connected to separate copper strings which is joined to the fingures of the bot. When the arduino of the bot recieves the signals, the corresponding set of motor is <b>switched on<\b> amd hence the copper string is pulled, thus, bending the corresponding fingure. When the srint is released the braid wire in the rear part of the fingure brings the fingure into its original state.</p>
 
 ![Hand](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images%20and%20Videos/Images/Bot.PNG)
 
@@ -82,16 +82,16 @@ Srishti 2020
    - Image processing can be replaced by ultra sensitive flex sensors and small stepper motors for better precision of the motion.
 
 ## Team members 
-   1. [Rohit Kumar](https://github.com/Rohit-Kumar-219)
-   2. [Rohit Sondarva](https://github.com/rohitsndrva)
-   3. [Anubhuti Shruti](https://github.com/Anu-123-gif)
-   4. [Dhaval kanani](https://github.com/Dhaval-Kanani)
+   1. [Anubhuti Shruti](https://github.com/Anu-123-gif)
+   2. [Dhaval kanani](https://github.com/Dhaval-Kanani)
+   3. [Rohit Kumar](https://github.com/Rohit-Kumar-219)
+   4. [Rohit Sondarva](https://github.com/rohitsndrva)
    5. [Siddhant Taksande](https://github.com/d-siddhant)
 
 ## Mentors
 
-   1. [Shiva Sri Teja](https://github.com/shivasriteja) 
-   2. [Kunal](https://github.com/Ryuzaki1947)
+   1. [Kunal](https://github.com/Ryuzaki1947)
+   2. [Shiva Sri Teja](https://github.com/shivasriteja) 
 
 ## References
    
