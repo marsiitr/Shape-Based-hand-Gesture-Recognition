@@ -5,7 +5,7 @@ Srishti 2020
    
    <p align="justify">The aim of the project is to create hand bot which can replicate the movements of hands of the person who is interacting with the bot, with the help of image processing. This project is a combination of live motion detection and gesture identification.</p>
 
-![](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images/Image%20identification.jpg)
+![Image Identification](https://github.com/Rohit-Kumar-219/Shape-Based-hand-Gesture-Recognition/blob/master/Images%20and%20Videos/Images/Image%20identification.jpg)
 
 ## Motivation 
    <p align="justify">The motivation is to create a bot that can copy the movements of an original hand. With further motivations this bot can be upgraded to an artificial hand. This model is just to understand the coordination between the human and robotic actions. This bot aims in maximising of the patterns of the human hand, to replicate it.</p> 
